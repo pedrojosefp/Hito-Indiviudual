@@ -1,0 +1,10 @@
+1.¿Cual es el numero atomico del aluminio?;A) 43;B) 13;C) 21;B
+2.¿En que batalla murio napoleon?;A) contra los rusos;B) contra los ingleses;C) enfermo;C
+3.¿Cuál es el tercer planeta del sistema solar?;A) la Tierra;B) Marte;C) Urano;A
+4.¿Qué animal mata más humanos al año?;A) mosquito;B) tiburon;C) oso;A
+5.¿Cuál es el nombre científico del ser humano?;A) humanoide;B) homo sapiens sapiens;C) homo sapiens;B
+6.¿Cuál fue la primera película de Disney?;A) cenicienta;B) la bella y la bestia;C) blancanieves y los siete enanitos;C
+7.¿Cómo se denomina el resultado de una multiplicación?;A) Producto;B) Resultado;C) cociente;A
+8.¿Quién fue el ganador del Oscar al mejor actor en 2016?;A) leonardo dicaprio;B) Rami malek;C) brad pitt;A
+9.¿Cuál es la capital de Chile?;A) buenos aires;B) santiago;C) viña del mar;B
+10.¿Cuál es la serie con más capítulos emitidos en toda la historia de la televisión?;A) breakin bad;B) futurama;C) the simpson;C
